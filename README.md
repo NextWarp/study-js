@@ -17,6 +17,7 @@ $ docker-compose up
 ### npm 직접 실행
 
 ```bash
+$ npm install
 # $ npm start --filename=${filename}
 $ npm start --filename=1
 ```
